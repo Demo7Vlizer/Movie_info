@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 //-------------------------------------------------------------------------------------------------
 
 <video controls src="assets/Screen Recording 2025-02-04 141935.mp4" title="Title"></video>
+
+[text](README.md) ![text](<assets/Screenshot 2025-02-04 142406.png>) ![text](<assets/Screenshot 2025-02-04 142412.png>)
