@@ -80,4 +80,4 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-<p align="center">Made with ❤️ by [Your Name]</p>
+<p align="center">Made with ❤️</p>
